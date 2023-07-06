@@ -1,0 +1,55 @@
+*{
+    font-family: 'Orbitron', sans-serif;
+    color: #82a5ca;
+    margin: 0;
+    background-color: #82a5ca;
+}
+#logo{
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    background-color: transparent;
+}
+#title{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 50px;
+    background-color: transparent;
+}
+.underline{
+    border-bottom: 10px solid aliceblue;
+    background-color: transparent;
+}
+#hero{
+    background: url('images/galaxy.webp');
+    background-size: cover;
+    padding: 20px 0 430px 0;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin: 85px 7px 40px 7px;
+    background-color: transparent;
+}
+.button{
+    background: aliceblue;
+    padding: 8px 16px;
+    border: none;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 3px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+a{
+    background-color: transparent;
+}
+#click:hover{
+    cursor:pointer;
+}
+#rules{
+    color: aliceblue;
+    text-align: center;
+    font-size:35px;
+    margin-top:25px;
+}
