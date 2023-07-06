@@ -23,7 +23,7 @@
 #hero{
     background: url('images/galaxy.webp');
     background-size: cover;
-    padding: 20px 0 390px 0;
+    padding: 20px 0 360px 0;
 }
 .buttons{
     display: flex;
